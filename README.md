@@ -1,1 +1,1 @@
-# mortal_kombat
+# Mortal Kombat - промо сайт
